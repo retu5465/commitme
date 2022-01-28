@@ -18,9 +18,15 @@ h1{
 	font-family: 'Lobster', cursive;
 }
 
+h2{
+	color: #2b688a;
+
+}
+
 li{
 	font-size: 2em;
 	text-align: left;
 	color: #388491;
 }
+
 
