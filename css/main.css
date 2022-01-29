@@ -13,9 +13,25 @@ body{
 
 h1{
 	color: #d34933;
+	animation-name: color_change;
+	animation-duration: 5s;
 	font-size: 4em;
 	text-align: center;
 	font-family: 'Lobster', cursive;
+}
+
+@keyframes color_change {
+  0%   {color: #d34933;}
+  10%  {color: #dc6d45;}
+  20%  {color: #d34933;}
+  30%  {color: #dc6d45;}
+  40%  {color: #d34933;}
+  50%  {color: #dc6d45;}
+  60%  {color: #d34933;}
+  70%  {color: #dc6d45;}
+  80%  {color: #d34933;}
+  90%  {color: #dc6d45;}
+  100%  {color: #d34933;}
 }
 
 h2{
@@ -23,6 +39,7 @@ h2{
 	font-size: 3em;
 	text-align: left;
 	font-family: 'Monoton', cursive;
+
 
 }
 
