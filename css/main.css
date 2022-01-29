@@ -37,3 +37,7 @@ img{
 	border-radius: 45%;
 }
 
+ul{
+	list-style-image: url('../img/ul.png');
+}
+
