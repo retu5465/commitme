@@ -40,8 +40,8 @@ img{
 li.flower {
 background: url('../img/ul.png') no-repeat;
 left top;
-background-size: 15px;
-height: 15px;
+background-size: 30px;
+height: 100%;
 padding-left: 20px;
 padding-top: 3px;
 }
