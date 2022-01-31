@@ -195,6 +195,19 @@ div.test {
 div.test:hover {
   overflow: visible;
 }
+div.test2 {
+  white-space: nowrap; 
+  width: 400px; 
+  overflow: hidden; 
+  border: 2px solid #14254a;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+div.test2:hover {
+  overflow: visible;
+}
 
 div.right-img{
   position: absolute;
