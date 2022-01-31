@@ -59,7 +59,6 @@ h2{
 
 li{
 	font-size: 2em;
-	color: #388491;
   font-family: Helvetica, sans-serif;
 }
 
@@ -85,6 +84,7 @@ ul.no_bullet {
 list-style-type: none;
 padding: 2;
 margin: 0;
+color: #388491;
 }
 
 ul.bullet {
