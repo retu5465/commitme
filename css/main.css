@@ -87,6 +87,11 @@ padding: 2;
 margin: 0;
 }
 
+ul.bullet {
+padding: 2;
+margin: 0;
+}
+
 p{
   font-size: 1em;
   text-align: center;
