@@ -50,7 +50,7 @@ h1{
 
 h2{
 	animation-name: color_change2;
-	animation-duration: 10s;
+	animation-duration: 1s;
 	color: #2b688a;
 	font-size: 3em;
 	text-align: left;
