@@ -14,7 +14,7 @@ body{
 h1{
 	color: #d34933;
 	animation-name: color_change;
-	animation-duration: 1s;
+	animation-duration: 10s;
 	font-size: 4em;
 	text-align: center;
 	font-family: 'Lobster', cursive;
@@ -50,7 +50,7 @@ h1{
 
 h2{
 	animation-name: color_change2;
-	animation-duration: 1s;
+	animation-duration: 10s;
 	color: #2b688a;
 	font-size: 3em;
 	text-align: left;
