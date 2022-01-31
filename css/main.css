@@ -120,7 +120,7 @@ img.soundo_keyframe{
   border-radius: 45%;
   opacity: .5;
   animation-name: opacity_change;
-  animation-duration: 10s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
 
 }
