@@ -203,6 +203,6 @@ div.right-img{
 }
 
 div.right{
-  position: absolute;
+  position: relative;
   align-content: right;
 }
