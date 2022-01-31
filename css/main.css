@@ -18,6 +18,7 @@ h1{
 	font-size: 4em;
 	text-align: center;
 	font-family: 'Lobster', cursive;
+  animation-iteration-count: infinite;
 }
 
 @keyframes color_change {
