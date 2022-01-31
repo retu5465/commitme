@@ -46,6 +46,7 @@ h1{
   80%  {color: #2b688a;}
   90%  {color: #14254a;}
   100% {color: #2b688a;}
+}
 
 h2{
 	animation-name: color_change2;
