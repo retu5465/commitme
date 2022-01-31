@@ -102,7 +102,7 @@ li{
 }
 
 img.slang{
-	height: 200px;
+	height: 400px;
 	border-radius: 45%;
 }
 
@@ -191,5 +191,11 @@ div.test {
 
 div.test:hover {
   overflow: visible;
+}
+
+div.right-img{
+  position: absolute;
+  top: 60%;
+  left: 60%;
 }
 
