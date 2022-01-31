@@ -88,3 +88,10 @@ padding: 2;
 margin: 0;
 }
 
+p{
+  font-size: 1em;
+  text-align: center;
+  color: #388491;
+  font-family: Helvetica, sans-serif;
+}
+
