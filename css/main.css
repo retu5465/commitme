@@ -62,6 +62,20 @@ h1{
   100% {color: #2b688a;}
 }
 
+@keyframes opacity_change {
+  0%   {opacity: .5;}
+  10%  {opacity: 1;}
+  20%  {opacity: .5;}
+  30%  {opacity: 1;}
+  40%  {opacity: .5;}
+  50%  {opacity: 1;}
+  60%  {opacity: .5;}
+  70%  {opacity: 1;}
+  80%  {opacity: .5;}
+  90%  {opacity: 1;}
+  100% {opacity: .5;}
+}
+
 h2{
 	animation-name: color_change2;
 	animation-duration: 10s;
