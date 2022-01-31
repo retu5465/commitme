@@ -111,13 +111,13 @@ img.sound{
 
 img.soundo{
   height: 300px;
-  border-radius: 45%;
+  border-radius: 30%;
   opacity: .5;
 }
 
 img.soundo_keyframe{
   height: 300px;
-  border-radius: 45%;
+  border-radius: 10%;
   opacity: .5;
   animation-name: opacity_change;
   animation-duration: 5s;
