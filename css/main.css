@@ -184,6 +184,9 @@ div.test {
   width: 200px; 
   overflow: hidden; 
   border: 1px solid #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
 }
 
 div.test:hover {
