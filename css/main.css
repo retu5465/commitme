@@ -153,6 +153,10 @@ ol{
   color: #dc6d45;
 }
 
+li.right{
+  text-align: right;
+}
+
 p{
   font-size: 1em;
   text-align: center;
