@@ -68,6 +68,11 @@ img.slang{
 	border-radius: 45%;
 }
 
+img.sound{
+  height: 200px;
+  border-radius: 45%;
+}
+
 li.flower {
 background: url('../img/ul.png') no-repeat;
 left top;
