@@ -217,6 +217,7 @@ div.right-img{
 }
 
 div.right{
-  position: relative;
+  position: absolute;
+  top: 120%
   align-content: right;
 }
