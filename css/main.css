@@ -71,6 +71,15 @@ h2{
 	font-family: 'Monoton', cursive;
 }
 
+h3{
+  animation-name: size_change;
+  animation-duration: 10s;
+  color: #d34933;
+  font-size: 3em;
+  text-align: left;
+  font-family: 'Monoton', cursive;
+}
+
 li{
 	font-size: 2em;
   font-family: Helvetica, sans-serif;
