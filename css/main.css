@@ -91,8 +91,14 @@ img.slang{
 }
 
 img.sound{
-  height: 200px;
+  height: 300px;
   border-radius: 45%;
+}
+
+img.soundo{
+  height: 300px;
+  border-radius: 45%;
+  opacity: .5;
 }
 
 li.flower {
