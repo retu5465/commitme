@@ -121,6 +121,7 @@ img.soundo_keyframe{
   opacity: .5;
   animation-name: opacity_change;
   animation-duration: 10s;
+  animation-iteration-count: infinite;
 
 }
 
