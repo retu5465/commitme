@@ -115,6 +115,16 @@ img.soundo{
   opacity: .5;
 }
 
+img.soundo_keyframe{
+  height: 300px;
+  border-radius: 45%;
+  opacity: .5;
+  animation-name: opacity_change;
+  animation-duration: 10s;
+
+}
+
+
 li.flower {
 background: url('../img/ul.png') no-repeat;
 left top;
