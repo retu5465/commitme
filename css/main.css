@@ -36,16 +36,16 @@ h1{
 
 @keyframes color_change2 {
   0%   {color: #2b688a;}
-  10%  {color: #dc6d45;}
+  10%  {color: #14254a;}
   20%  {color: #2b688a;}
-  30%  {color: #dc6d45;}
+  30%  {color: #14254a;}
   40%  {color: #2b688a;}
-  50%  {color: #dc6d45;}
+  50%  {color: #14254a;}
   60%  {color: #2b688a;}
-  70%  {color: #dc6d45;}
+  70%  {color: #14254a;}
   80%  {color: #2b688a;}
-  90%  {color: #dc6d45;}
-  100%  {color: #2b688a;}
+  90%  {color: #14254a;}
+  100% {color: #2b688a;}
 
 h2{
 	color: #2b688a;
