@@ -34,6 +34,20 @@ h1{
   100%  {color: #d34933;}
 }
 
+@keyframes size_change {
+  0%   {font-size: 3em;}
+  10%  {font-size: 4em;}
+  20%  {font-size: 3em;}
+  30%  {font-size: 4em;}
+  40%  {font-size: 3em;}
+  50%  {font-size: 4em;}
+  60%  {font-size: 3em;}
+  70%  {font-size: 4em;}
+  80%  {font-size: 3em;}
+  90%  {font-size: 4em;}
+  100% {font-size: 3em;}
+}
+
 @keyframes color_change2 {
   0%   {color: #2b688a;}
   10%  {color: #14254a;}
@@ -90,6 +104,12 @@ color: #388491;
 ul.bullet {
 padding: 2;
 margin: 0;
+}
+
+ol{
+  padding: 2;
+  margin: 0;
+  color: #dc6d45;
 }
 
 p{
