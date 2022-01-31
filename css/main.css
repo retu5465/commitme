@@ -74,13 +74,13 @@ left top;
 background-size: 30px;
 height: 100%;
 padding-left: 20px;
-padding-right: 30px;
+padding-right: 50px;
 padding-top: 3px;
 }
 
 ul.no_bullet {
 list-style-type: none;
-padding: 0;
+padding: 2;
 margin: 0;
 }
 
