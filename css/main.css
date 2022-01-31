@@ -198,6 +198,7 @@ div.test:hover {
 div.test2 {
   white-space: nowrap; 
   width: 400px; 
+  height: 100px;
   overflow: hidden; 
   border: 2px solid #14254a;
   position: relative;
