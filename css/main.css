@@ -92,7 +92,7 @@ h3{
   animation-duration: 10s;
   color: #d34933;
   font-size: 5em;
-  text-align: left;
+  text-align: right;
   font-family: 'Monoton', cursive;
 }
 
@@ -124,9 +124,7 @@ img.soundo_keyframe{
   animation-name: opacity_change;
   animation-duration: 5s;
   animation-iteration-count: infinite;
-
 }
-
 
 li.flower {
 background: url('../img/ul.png') no-repeat;
