@@ -202,3 +202,7 @@ div.right-img{
   left: 60%;
 }
 
+div.right{
+  position: absolute;
+  align-content: right;
+}
