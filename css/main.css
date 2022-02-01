@@ -201,7 +201,7 @@ div.test2 {
   height: 100px;
   overflow: hidden; 
   border: 4px solid #14254a;
-  position: absolute;
+  position: relative;
   font-size: 4em;
   color: white;
 
