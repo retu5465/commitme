@@ -210,7 +210,7 @@ div.test2 {
 div.test2:hover {
   overflow: visible;
   font-size: 4em;
-  color: white;
+  color: #d34933;
 }
 
 div.right-img{
