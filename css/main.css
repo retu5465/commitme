@@ -183,7 +183,7 @@ p{
 }
 
 div.test {
-  white-space: nowrap; 
+  
   width: 200px; 
   overflow: hidden; 
   border: 1px solid #ffffff;
