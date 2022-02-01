@@ -202,10 +202,13 @@ div.test2 {
   overflow: hidden; 
   border: 4px solid #14254a;
   position: absolute;
+
 }
 
 div.test2:hover {
   overflow: visible;
+  font-size: 2em;
+  color: white;
 }
 
 div.right-img{
