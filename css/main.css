@@ -218,8 +218,7 @@ div.right-img{
   top: 60%;
   left: 60%;
 }
-
-div.hoover{
+.hoover{
   width: 0;
   height: 0;
   border-left: 25px solid transparent;
@@ -228,7 +227,7 @@ div.hoover{
   display: inline-block;
 }
 
-div.hoover:hover {
+.hoover:hover {
   width: 0;
   height: 0;
   border-left: 25px solid transparent;
