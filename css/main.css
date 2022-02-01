@@ -193,7 +193,7 @@ div.test {
 }
 
 div.test:hover {
-  overflow:;
+  overflow: visible;
 }
 div.test2 {
   white-space: nowrap; 
